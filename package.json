@@ -1,0 +1,18 @@
+{
+  "name": "chaiaurcodebackend",
+  "version": "1.0.0",
+  "description": "a backend practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "express",
+    "chai",
+    "mongoose"
+  ],
+  "author": "mohit soni",
+  "license": "ISC"
+}
